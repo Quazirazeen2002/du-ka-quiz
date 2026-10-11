@@ -4,7 +4,7 @@ A responsive Bangla-version quiz app built with plain HTML, CSS, and JavaScript.
 
 ## Live app
 
-The public URL will be added after GitHub Pages deployment.
+[Open কুইজঘর](https://quazirazeen2002.github.io/du-ka-quiz/)
 
 ## Run
 
